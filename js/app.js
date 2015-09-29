@@ -1,4 +1,4 @@
-var todo = angular.module("todo", [])
+var ngTodo = angular.module("ngTodo", [])
   .config(function() {
 
   });
